@@ -1,0 +1,14 @@
+{
+    "Path to Data": "",
+    "Plot Data": true,
+	"Use_all_ontologies":true,
+    "Ontologies": "",
+	"API_KEY" : "",
+	"Synonyms":true,
+	"MultipleOntologies":true,
+	"Comb":[2,3],
+	"Ontologies_to_Select":5,
+	"Single_Report_Path" : "",
+	"Multiple_Report_Path": ""
+}
+
