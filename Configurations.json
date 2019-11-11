@@ -1,0 +1,14 @@
+{
+    "path to data": "C:\\Users\\...\\Test Data\\testdata_small.csv",
+    "plot data": true,
+	"test all ontologies": false,
+    "ontologies": "NCIT,IOBC,RH-MESH,NIFSTD",
+	"apikey": "",
+	"synonyms": true,
+	"test multiple ontologies": true,
+	"combinations": [2,3],
+	"ontologies to select": 5,
+	"single report path": "C:\\Users\\...\\Test Data\\Single Report",
+	"multiple report path": "C:\\Users\\...\\Test Data\\Multiple Report"
+}
+
