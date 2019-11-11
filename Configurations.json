@@ -1,0 +1,14 @@
+{
+    "path to data": "C:\\Users\\david\\Desktop\\Test Data\\testdata_small.csv",
+    "plot data": true,
+	"test all ontologies": false,
+    "ontologies": "NCIT,IOBC,RH-MESH,NIFSTD",
+	"apikey": "apikey=e6066398-1018-4206-83f9-afae9851247a",
+	"synonyms": true,
+	"test multiple ontologies": true,
+	"combinations": [2,3],
+	"ontologies to select": 5,
+	"single report path": "C:\\Users\\david\\Desktop",
+	"multiple report path": "C:\\Users\\david\\Desktop\\Multiple_Matches"
+}
+
