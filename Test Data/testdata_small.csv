@@ -1,0 +1,501 @@
+,abdominal hernia,abdominal pain,acute renal failure,acute cardiovascular disease,acute mi,adult resp failure,alcohol related disorders,allergy,aneurysm,otnutritional disorder,other pregnacy complications,other upper respiratory disorder,ovarian cyst,pancreas disorder,paralysis,phlebitis,pelvic inflammatory disease,pneumonia,prolapse,prostate cancer,pulmonary heart disease,retinal disorder,rheumatoid arthritis,schizophrenia and other psychotic disorder,septicemia,sexual infections,skin infectionn,skin melanoma,sle,stomach cancer,substance related disorders,superficial injury,syncope,teeth disorder,thyroid disorder,tia,ulcerative colitis,ulcer skin ,kidney stones,herbal medicine,pre-natal vitamins,sedative/hypnotics,gender,ethnicity,race,lang,religion,maritalstatus,employstatus,insurance_status,disposition,arrivalmode,arrivalmonth,arrivalday
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,White or Caucasian,English,None,Single,Full Time,Other,Discharge,Walk-in,June,Tuesday
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Native Hawaiian or Other Pacific Islander,English,Pentecostal,Married,Not Employed,Commercial,Discharge,Car,January,Tuesday
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Native Hawaiian or Other Pacific Islander,English,Pentecostal,Married,Not Employed,Commercial,Discharge,Walk-in,July,Thursday
+4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Native Hawaiian or Other Pacific Islander,English,Pentecostal,Married,Not Employed,Commercial,Discharge,Car,July,Saturday
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sedative/hypnotics,Female,Hispanic or Latino,Other,Other,Pentecostal,Widowed,Retired,Medicare,Admit,Walk-in,November,Tuesday
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Pentecostal,Widowed,Retired,Medicare,Discharge,Walk-in,April,Monday
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Pentecostal,Widowed,Retired,Medicare,Admit,Car,September,Wednesday
+8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Pentecostal,Widowed,Retired,Medicare,Discharge,Car,March,Saturday
+9,,,,,,,,,aneurysm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Retired,Medicare,Admit,ambulance,March,Sunday
+10,,,,,,,,,aneurysm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Retired,Medicare,Admit,ambulance,October,Sunday
+11,,,,,,,,,aneurysm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Retired,Medicare,Admit,ambulance,January,Tuesday
+12,,,,,,,,,aneurysm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Retired,Medicare,Admit,ambulance,November,Friday
+13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,Other,English,Catholic,Single,Full Time,Other,Discharge,Walk-in,November,Monday
+14,,,,,,,,,,,,,,,,,,,,,,,,schizophrenia and other psychotic disorder,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Significant Other,Disabled,Medicare,Admit,ambulance,March,Wednesday
+15,,,,,,,,,,,,,,,,,,,,,,,,schizophrenia and other psychotic disorder,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Significant Other,Disabled,Medicare,Admit,ambulance,May,Sunday
+16,,,,,,,,,,,,,,,,,,,,,,,,schizophrenia and other psychotic disorder,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Significant Other,Disabled,Medicare,Admit,Walk-in,July,Tuesday
+17,,,,,,,,,,,,,,,,,,,,,,,,schizophrenia and other psychotic disorder,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Significant Other,Disabled,Medicare,Discharge,ambulance,August,Friday
+18,,,,,,,,,,,,,,,,,,,,,,,,schizophrenia and other psychotic disorder,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Significant Other,Disabled,Medicare,Admit,Walk-in,September,Monday
+19,,,,,,,,,,,,,,,,,,,,,,,,schizophrenia and other psychotic disorder,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Significant Other,Disabled,Medicare,Discharge,ambulance,December,Friday
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Medicaid,Admit,ambulance,July,Thursday
+21,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Divorced,Not Employed,Medicaid,Discharge,Car,December,Friday
+22,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Divorced,Not Employed,Medicaid,Discharge,Car,March,Tuesday
+23,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Divorced,Not Employed,Medicaid,Admit,Car,June,Friday
+24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicaid,Discharge,Car,February,Monday
+25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicaid,Discharge,Walk-in,March,Saturday
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sedative/hypnotics,Female,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicaid,Discharge,Car,May,Tuesday
+27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sedative/hypnotics,Female,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicaid,Discharge,Car,December,Sunday
+28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicaid,Discharge,Walk-in,February,Monday
+29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicaid,Discharge,Car,May,Sunday
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicaid,Admit,Walk-in,June,Tuesday
+31,,,,acute cardiovascular disease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Black or African American,English,Catholic,Single,Full Time,Commercial,Discharge,Car,July,Tuesday
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Other,Discharge,Car,July,Wednesday
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,NA,August,Thursday
+34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,NA,December,Thursday
+35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,NA,June,Wednesday
+36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,Car,June,Thursday
+37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,NA,July,Sunday
+38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Full Time,Commercial,Discharge,Car,September,Tuesday
+39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,Other,English,Catholic,Single,Not Employed,Medicaid,Discharge,Walk-in,May,Monday
+40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Admit,ambulance,May,Monday
+41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,ambulance,June,Tuesday
+42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Patient Refused,English,None,Single,Not Employed,Medicaid,Discharge,Car,November,Friday
+43,,,,,,,alcohol related disorders,,,,,,,,,,,,,,,,,,,,,,,,substance related disorders,,,,,,,,,,,,Male,Hispanic or Latino,Patient Refused,English,None,Single,Not Employed,Medicaid,Admit,Walk-in,January,Tuesday
+44,,,,,,,alcohol related disorders,,,,,,,,,,,,,,,,,,,,,,,,substance related disorders,,,,,,,,,,,,Male,Hispanic or Latino,Patient Refused,English,None,Single,Not Employed,Medicaid,Discharge,ambulance,January,Saturday
+45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Protestant,Single,Full Time,Commercial,Discharge,Walk-in,November,Monday
+46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Protestant,Single,Full Time,Commercial,Discharge,Walk-in,October,Monday
+47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Walk-in,September,Wednesday
+48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Car,April,Sunday
+49,,,,acute cardiovascular disease,acute mi,,,,,,,,,,,,,,,,,,,,,,,,sle,,,,,,,,,,,,,,Female,Non-Hispanic,Black or African American,English,Christian,Divorced,Not Employed,Medicare,Admit,Walk-in,March,Wednesday
+50,,,,acute cardiovascular disease,acute mi,,,,,,,,,,,,,,,,,,,,,,,,sle,,,,,,,,,,,,,,Female,Non-Hispanic,Black or African American,English,Christian,Divorced,Not Employed,Medicare,Admit,Wheelchair,June,Wednesday
+51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Black or African American,English,None,Single,Full Time,Commercial,Discharge,Car,January,Saturday
+52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Black or African American,English,None,Single,Full Time,Commercial,Discharge,Car,February,Saturday
+53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Single,Full Time,Commercial,Admit,Car,September,Sunday
+54,abdominal hernia,,,acute cardiovascular disease,,,,,aneurysm,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Retired,Medicare,Discharge,Car,August,Friday
+55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Full Time,Medicaid,Admit,ambulance,November,Thursday
+56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Full Time,Medicaid,Discharge,Walk-in,October,Monday
+57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Full Time,Medicaid,Discharge,Car,October,Wednesday
+58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Full Time,Medicaid,Admit,Walk-in,July,Thursday
+59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Full Time,Medicaid,Discharge,Walk-in,February,Wednesday
+60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Protestant,Divorced,Not Employed,Medicaid,Discharge,ambulance,July,Tuesday
+61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Protestant,Divorced,Not Employed,Medicaid,Discharge,ambulance,July,Wednesday
+62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Protestant,Divorced,Not Employed,Medicaid,Admit,ambulance,November,Monday
+63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Protestant,Divorced,Not Employed,Medicaid,Discharge,Walk-in,July,Thursday
+64,,,,acute cardiovascular disease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Admit,Car,May,Friday
+65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Commercial,Discharge,Car,October,Wednesday
+66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Other,Discharge,NA,November,Friday
+67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Part Time,Medicaid,Discharge,Car,January,Thursday
+68,,,,,,,,,,,,other upper respiratory disorder,,,,,,,,prostate cancer,,retinal disorder,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Married,Self Employed,Commercial,Admit,Car,September,Friday
+69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Other,Discharge,NA,October,Friday
+70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pre-natal vitamins,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Other,Discharge,NA,November,Sunday
+71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Other,Discharge,NA,January,Sunday
+72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,NA,August,Saturday
+73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pre-natal vitamins,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,NA,September,Sunday
+74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,NA,December,Wednesday
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,NA,September,Wednesday
+76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Car,December,Wednesday
+77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Car,May,Tuesday
+78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Discharge,Car,April,Wednesday
+79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,Car,September,Tuesday
+80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,ambulance,January,Wednesday
+81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Discharge,ambulance,February,Thursday
+82,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Divorced,Not Employed,Medicaid,Discharge,Walk-in,March,Monday
+83,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Divorced,Not Employed,Medicaid,Discharge,Walk-in,March,Sunday
+84,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Divorced,Not Employed,Medicaid,Admit,ambulance,July,Wednesday
+85,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Divorced,Not Employed,Medicaid,Discharge,ambulance,May,Sunday
+86,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Divorced,Not Employed,Medicaid,Discharge,Walk-in,May,Monday
+87,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Divorced,Not Employed,Medicaid,Discharge,Walk-in,June,Wednesday
+88,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Divorced,Not Employed,Medicaid,Discharge,ambulance,February,Monday
+89,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Divorced,Not Employed,Medicaid,Discharge,Car,June,Tuesday
+90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,Black or African American,English,Unknown,Single,Not Employed,Medicaid,Discharge,Car,January,Thursday
+91,abdominal hernia,,,,,,,,,otnutritional disorder,,other upper respiratory disorder,,,,,,,,,,,rheumatoid arthritis,,,,,,,,,,,teeth disorder,,,ulcerative colitis,,,,,,Female,Hispanic or Latino,Other,English,Christian,Divorced,Full Time,Commercial,Admit,Car,December,Tuesday
+92,,,,,acute mi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Married,Retired,Commercial,Admit,Walk-in,October,Monday
+93,,,,,acute mi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Married,Retired,Commercial,Discharge,Car,September,Friday
+94,abdominal hernia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Other,Widowed,Retired,Medicare,Discharge,Car,November,Saturday
+95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Walk-in,May,Thursday
+96,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Car,June,Friday
+97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Car,October,Wednesday
+98,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Walk-in,December,Tuesday
+99,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,July,Tuesday
+100,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Other,Discharge,ambulance,September,Saturday
+101,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Other,Discharge,Car,October,Tuesday
+102,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,January,Tuesday
+103,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,substance related disorders,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,March,Tuesday
+104,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,substance related disorders,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Car,March,Tuesday
+105,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,substance related disorders,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,April,Saturday
+106,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,substance related disorders,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,April,Monday
+107,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,substance related disorders,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,April,Thursday
+108,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,substance related disorders,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Car,September,Tuesday
+109,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,substance related disorders,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,June,Saturday
+110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Full Time,Medicaid,Discharge,Car,June,Monday
+111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Car,June,Saturday
+112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Walk-in,March,Friday
+113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,April,Tuesday
+114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Married,Self Employed,Medicaid,Admit,ambulance,September,Saturday
+115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Married,Self Employed,Medicaid,Discharge,Car,April,Thursday
+116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Married,Self Employed,Medicaid,Discharge,Walk-in,November,Sunday
+117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,March,Saturday
+118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,Car,September,Monday
+119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Discharge,ambulance,January,Friday
+120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,June,Tuesday
+121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Discharge,Car,July,Monday
+122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,July,Wednesday
+123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,October,Friday
+124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,December,Monday
+125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,January,Wednesday
+126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Discharge,ambulance,February,Friday
+127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,March,Sunday
+128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,April,Sunday
+129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,April,Wednesday
+130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,May,Tuesday
+131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,May,Thursday
+132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,March,Monday
+133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,March,Tuesday
+134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,April,Sunday
+135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,February,Monday
+136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,ambulance,March,Wednesday
+137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,March,Sunday
+138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,April,Thursday
+139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Other,Discharge,ambulance,December,Saturday
+140,,abdominal pain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Other,Widowed,Retired,Medicare,Discharge,Car,May,Tuesday
+141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Married,Full Time,Commercial,Discharge,ambulance,March,Saturday
+142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Retired,Commercial,Admit,Car,May,Friday
+143,,,,,,,,,,,,,,,,,,,,,,,,,septicemia,,,,,,,,syncope,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,Walk-in,March,Monday
+144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Discharge,Car,January,Monday
+145,,,,,,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Admit,Car,July,Thursday
+146,,,,,,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,September,Wednesday
+147,,,,,,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,October,Saturday
+148,,,,,,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,ambulance,December,Thursday
+149,,,,,,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Single,Not Employed,Medicaid,Discharge,Walk-in,March,Tuesday
+150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Walk-in,October,Tuesday
+151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,None,Married,Not Employed,Other,Admit,Other,October,Friday
+152,,,,,,,alcohol related disorders,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sedative/hypnotics,Male,Hispanic or Latino,Other,Other,Catholic,Married,Disabled,Medicare,Admit,ambulance,December,Monday
+153,,,,,,,alcohol related disorders,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Disabled,Medicare,Admit,Car,January,Wednesday
+154,,,,,,,alcohol related disorders,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Disabled,Medicare,Admit,ambulance,August,Wednesday
+155,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,White or Caucasian,English,Christian,Divorced,Full Time,Commercial,Discharge,ambulance,March,Thursday
+156,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,White or Caucasian,English,Christian,Divorced,Full Time,Commercial,Admit,ambulance,March,Friday
+157,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,White or Caucasian,English,Christian,Divorced,Full Time,Commercial,Discharge,Walk-in,November,Tuesday
+158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Pentecostal,Married,Full Time,Medicaid,Discharge,Car,February,Tuesday
+159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Pentecostal,Married,Full Time,Medicaid,Discharge,ambulance,November,Friday
+160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Pentecostal,Married,Full Time,Medicaid,Discharge,Walk-in,January,Monday
+161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Pentecostal,Married,Full Time,Other,Discharge,ambulance,August,Thursday
+162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Pentecostal,Married,Full Time,Other,Discharge,ambulance,December,Monday
+163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Pentecostal,Married,Full Time,Medicaid,Discharge,Car,December,Monday
+164,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Divorced,Retired,Medicaid,Admit,Walk-in,March,Friday
+165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Divorced,Retired,Medicaid,Admit,Walk-in,July,Tuesday
+166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Divorced,Retired,Medicaid,Discharge,Walk-in,January,Tuesday
+167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Divorced,Retired,Medicaid,Discharge,ambulance,February,Saturday
+168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Divorced,Retired,Medicaid,Discharge,Walk-in,March,Friday
+169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Divorced,Retired,Medicaid,Discharge,Walk-in,September,Friday
+170,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Divorced,Retired,Medicaid,Discharge,Car,October,Saturday
+171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Divorced,Retired,Medicaid,Discharge,Car,January,Friday
+172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Medicaid,Discharge,Car,November,Saturday
+173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Medicaid,Discharge,Walk-in,November,Tuesday
+174,,,,,,,,,,,,,,,,,,,,,,,,,,sexual infections,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Part Time,Medicaid,Discharge,Walk-in,September,Sunday
+175,,,acute renal failure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Divorced,Disabled,Medicare,Discharge,Walk-in,July,Wednesday
+176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Baptist,Single,Full Time,Commercial,Discharge,Car,August,Monday
+177,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Baptist,Single,Full Time,Commercial,Discharge,Car,August,Thursday
+178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Disabled,Medicare,Discharge,ambulance,November,Sunday
+179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Single,Not Employed,Other,Discharge,Walk-in,April,Sunday
+180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Baptist,Married,Full Time,Commercial,Discharge,Car,November,Sunday
+181,,,,,,,,,,,,,,,,,,pneumonia,,,,,,,septicemia,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Not Employed,Medicaid,Admit,Car,June,Monday
+182,,,,acute cardiovascular disease,,,,,,,,,,,,,,pneumonia,,,,,,,septicemia,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Not Employed,Medicaid,Discharge,Car,September,Monday
+183,,,,acute cardiovascular disease,,,,,,,,,,,,,,pneumonia,,,,,,,septicemia,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Not Employed,Medicaid,Discharge,Car,October,Monday
+184,,,,acute cardiovascular disease,,,,,,,,,,,,,,pneumonia,,,,,,,septicemia,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Not Employed,Medicaid,Admit,Car,October,Friday
+185,,,,acute cardiovascular disease,,,,,,,,,,,,,,pneumonia,,,,,,,septicemia,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Not Employed,Medicaid,Admit,Car,November,Tuesday
+186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Single,Full Time,Other,Discharge,Car,December,Thursday
+187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Single,Full Time,Other,Discharge,Car,February,Tuesday
+188,,,,,,,,,,otnutritional disorder,,,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicaid,Discharge,Car,June,Tuesday
+189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Married,Disabled,Medicare,Admit,Car,March,Monday
+190,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Married,Disabled,Medicare,Discharge,ambulance,January,Thursday
+191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Married,Disabled,Medicare,Discharge,Walk-in,March,Friday
+192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Hispanic or Latino,Other,English,Catholic,Married,Disabled,Medicare,Discharge,Walk-in,June,Monday
+193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Hispanic or Latino,Other,English,Catholic,Married,Disabled,Medicare,Discharge,ambulance,June,Tuesday
+194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,None,Single,Full Time,Commercial,Discharge,Car,April,Wednesday
+195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,None,Single,Full Time,Commercial,Discharge,Other,September,Sunday
+196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,None,Single,Full Time,Commercial,Discharge,Car,October,Tuesday
+197,abdominal hernia,,,,,,,,,,,,,,,,,,prolapse,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Retired,Self pay,Admit,ambulance,September,Monday
+198,abdominal hernia,,,,,,,,,,,,,,,,,pneumonia,prolapse,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Retired,Medicaid,Discharge,Walk-in,January,Saturday
+199,abdominal hernia,,,,,,,,,,,,,,,,,pneumonia,prolapse,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Retired,Medicaid,Discharge,Walk-in,June,Wednesday
+200,abdominal hernia,,,,,,,,,,,,,,,,,pneumonia,prolapse,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Retired,Medicaid,Discharge,Walk-in,August,Saturday
+201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Discharge,Car,March,Tuesday
+202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Admit,Walk-in,March,Wednesday
+203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Discharge,Car,September,Monday
+204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Discharge,Car,February,Monday
+205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Discharge,Car,January,Friday
+206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Admit,Walk-in,November,Friday
+207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Admit,Car,November,Friday
+208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,None,Single,Full Time,Medicaid,Discharge,Car,April,Sunday
+209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,None,Single,Full Time,Medicaid,Discharge,Car,May,Tuesday
+210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Single,On Active Military Duty,Other,Discharge,Walk-in,August,Friday
+211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Single,On Active Military Duty,Commercial,Admit,ambulance,December,Friday
+212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Single,On Active Military Duty,Commercial,Admit,ambulance,December,Friday
+213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,Black or African American,English,None,Single,Student - Full Time,Medicaid,Discharge,Car,December,Friday
+214,,,,,,,,,,,other pregnacy complications,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,None,Single,Part Time,Medicaid,Discharge,Car,May,Monday
+215,,,,,,,,,,,other pregnacy complications,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,None,Single,Part Time,Medicaid,Discharge,Car,November,Wednesday
+216,,,,,,,,,,,other pregnacy complications,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,None,Single,Part Time,Medicaid,Discharge,Car,January,Thursday
+217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,,,,,,,,,Female,Hispanic or Latino,Patient Refused,English,Catholic,Single,Full Time,Commercial,Discharge,Car,June,Wednesday
+218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,,,,,,,,,Female,Hispanic or Latino,Patient Refused,English,Catholic,Single,Full Time,Commercial,Discharge,Car,March,Wednesday
+219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,Other,English,Christian,Single,Part Time,Medicaid,Discharge,Car,October,Saturday
+220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Female,Hispanic or Latino,Other,Other,None,Married,Not Employed,Medicare,Discharge,Car,September,Thursday
+221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulcer skin ,,,,,Female,Hispanic or Latino,Other,Other,None,Married,Not Employed,Medicare,Discharge,ambulance,September,Wednesday
+222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Protestant,Married,Full Time,Commercial,Discharge,Car,May,Tuesday
+223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,Black or African American,English,Christian,Married,Retired,Medicare,Discharge,Walk-in,April,Thursday
+224,abdominal hernia,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Christian,Married,Full Time,Commercial,Discharge,Car,July,Friday
+225,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Car,October,Wednesday
+226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Single,Not Employed,Medicaid,Discharge,Car,June,Tuesday
+227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Single,Not Employed,Medicaid,Discharge,Car,March,Tuesday
+228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,Car,September,Tuesday
+229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Married,Not Employed,Medicaid,Discharge,Walk-in,January,Sunday
+230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Married,Full Time,Other,Discharge,Car,January,Monday
+231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Married,Full Time,Medicaid,Discharge,Car,February,Monday
+232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Part Time,Medicaid,Discharge,Walk-in,September,Tuesday
+233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Part Time,Medicaid,Discharge,Other,October,Monday
+234,,,,,,,,,,,,,,,,,,pneumonia,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Widowed,Retired,Commercial,Admit,ambulance,September,Friday
+235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Part Time,Medicaid,Discharge,Walk-in,August,Sunday
+236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Part Time,Medicaid,Discharge,Car,March,Thursday
+237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Student - Full Time,Medicaid,Discharge,Walk-in,March,Sunday
+238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Student - Full Time,Medicaid,Discharge,Car,September,Tuesday
+239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Student - Full Time,Medicaid,Discharge,Walk-in,September,Friday
+240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,Black or African American,English,None,Divorced,Disabled,Medicare,Discharge,Car,October,Saturday
+241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Other,Discharge,NA,December,Saturday
+242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,NA,July,Thursday
+243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,Car,November,Tuesday
+244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,Car,July,Thursday
+245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,ambulance,September,Thursday
+246,,,,,,,,allergy,,,,,,,,,,pneumonia,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Discharge,Car,September,Sunday
+247,,,,,,,,allergy,,,,,,,,,,pneumonia,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Full Time,Commercial,Discharge,Car,April,Wednesday
+248,,,,,,,,,,otnutritional disorder,,other upper respiratory disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Married,Full Time,Commercial,Admit,Car,October,Monday
+249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Not Employed,Medicaid,Discharge,Car,August,Thursday
+250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Not Employed,Medicaid,Admit,Car,October,Friday
+251,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,Other,Other,Married,Not Employed,Medicare,Discharge,Car,April,Tuesday
+252,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,Other,Other,Married,Not Employed,Medicare,Discharge,Walk-in,June,Friday
+253,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,Other,Other,Married,Not Employed,Commercial,Discharge,Car,April,Friday
+254,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,Other,Other,Married,Not Employed,Commercial,Admit,Walk-in,April,Saturday
+255,,abdominal pain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,Other,English,Catholic,Married,Not Employed,Commercial,Discharge,Car,April,Monday
+256,,abdominal pain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,Other,English,Catholic,Married,Not Employed,Commercial,Admit,ambulance,November,Thursday
+257,,abdominal pain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,Other,English,Catholic,Married,Not Employed,Commercial,Discharge,Car,February,Thursday
+258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Pentecostal,Married,Full Time,Medicaid,Discharge,Walk-in,January,Monday
+259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Married,Part Time,Medicaid,Discharge,Walk-in,May,Monday
+260,,,,,,,,,,,,,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Legally Separated,Not Employed,Medicaid,Discharge,Car,April,Monday
+261,,,,,,,,,,,,,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Legally Separated,Not Employed,Medicaid,Admit,Car,July,Sunday
+262,,,,,,,,,,,,,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Legally Separated,Not Employed,Medicaid,Admit,Car,November,Tuesday
+263,,,,,,,,,,,,,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Legally Separated,Not Employed,Medicaid,Admit,Car,January,Saturday
+264,,abdominal pain,,,,,,,,,,,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Legally Separated,Not Employed,Medicaid,Admit,Car,July,Wednesday
+265,,abdominal pain,,,,,,,,,,,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Legally Separated,Not Employed,Medicaid,Discharge,Walk-in,September,Friday
+266,,abdominal pain,,,,,,,,,,,ovarian cyst,,,,,,,,,,,,,,,,,stomach cancer,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Legally Separated,Not Employed,Medicaid,Discharge,Car,November,Wednesday
+267,,abdominal pain,,,,,,,,,,,ovarian cyst,,,,,,,,,,,,,,,,,stomach cancer,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Pentecostal,Legally Separated,Not Employed,Medicaid,Discharge,Car,May,Wednesday
+268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Disabled,Medicare,Admit,ambulance,March,Wednesday
+269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Disabled,Medicare,Discharge,ambulance,December,Thursday
+270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Disabled,Medicare,Discharge,Car,December,Monday
+271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Disabled,Medicare,Discharge,ambulance,April,Tuesday
+272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,substance related disorders,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Legally Separated,Part Time,Medicaid,Admit,Walk-in,November,Saturday
+273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,substance related disorders,,,,thyroid disorder,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Legally Separated,Part Time,Medicaid,Discharge,Walk-in,November,Sunday
+274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,None,Married,Full Time,Commercial,Discharge,Walk-in,October,Monday
+275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Part Time,Medicaid,Admit,ambulance,June,Tuesday
+276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Part Time,Medicaid,Admit,ambulance,September,Friday
+277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Catholic,Married,Part Time,Medicaid,Discharge,Walk-in,December,Saturday
+278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Male,Hispanic or Latino,White or Caucasian,English,Catholic,Married,Retired,Medicare,Admit,Car,February,Tuesday
+279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Married,Part Time,Commercial,Discharge,Car,October,Saturday
+280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Other,Discharge,Walk-in,March,Saturday
+281,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,schizophrenia and other psychotic disorder,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,None,Single,Not Employed,Medicare,Discharge,ambulance,March,Saturday
+282,,,,,,,alcohol related disorders,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Divorced,Not Employed,Commercial,Discharge,ambulance,December,Saturday
+283,,,,,,,alcohol related disorders,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Divorced,Not Employed,Commercial,Discharge,ambulance,May,Tuesday
+284,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,January,Tuesday
+285,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,December,Thursday
+286,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,May,Sunday
+287,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,June,Tuesday
+288,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,June,Sunday
+289,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,August,Thursday
+290,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,September,Sunday
+291,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,October,Tuesday
+292,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,January,Sunday
+293,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,March,Thursday
+294,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,March,Thursday
+295,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,tia,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,April,Wednesday
+296,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,tia,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,April,Sunday
+297,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,tia,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,April,Wednesday
+298,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,tia,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,April,Friday
+299,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,tia,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,May,Monday
+300,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,tia,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,June,Thursday
+301,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,tia,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,June,Tuesday
+302,,,,,,,,,,,,,,,paralysis,,,,,,,,,,,,,,,,,,,,thyroid disorder,tia,,,,,,,Male,Hispanic or Latino,Other,English,Christian,Single,Disabled,Medicare,Discharge,ambulance,June,Wednesday
+303,,,,acute cardiovascular disease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Legally Separated,Not Employed,Medicaid,Discharge,ambulance,October,Thursday
+304,,,,acute cardiovascular disease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Legally Separated,Not Employed,Medicaid,Discharge,ambulance,October,Thursday
+305,,,,acute cardiovascular disease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Legally Separated,Not Employed,Medicaid,Discharge,ambulance,April,Wednesday
+306,,,,acute cardiovascular disease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Legally Separated,Not Employed,Medicaid,Discharge,Car,November,Thursday
+307,,,,acute cardiovascular disease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Legally Separated,Not Employed,Medicaid,Admit,ambulance,December,Monday
+308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Married,Student - Full Time,Commercial,Discharge,Car,September,Tuesday
+309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Married,Student - Full Time,Commercial,Discharge,Walk-in,February,Tuesday
+310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Christian,Married,Student - Full Time,Commercial,Discharge,Car,May,Saturday
+311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,None,Single,Full Time,Commercial,Discharge,Car,November,Saturday
+312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Widowed,Retired,Medicaid,Admit,Car,August,Friday
+313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Widowed,Retired,Medicaid,Discharge,Car,October,Sunday
+314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Widowed,Retired,Medicaid,Discharge,Walk-in,May,Monday
+315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Widowed,Retired,Medicaid,Discharge,Car,May,Monday
+316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Widowed,Retired,Medicaid,Discharge,Car,June,Monday
+317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,None,Single,Full Time,Other,Discharge,Walk-in,June,Tuesday
+318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,Other,Catholic,Married,Part Time,Other,Discharge,Walk-in,March,Monday
+319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,Car,March,Monday
+320,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Commercial,Discharge,ambulance,November,Friday
+321,,,,,,,,,,,,other upper respiratory disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,None,Single,Student - Full Time,Medicaid,Discharge,Car,February,Tuesday
+322,,,,,,,,,,,,other upper respiratory disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,None,Single,Student - Full Time,Medicaid,Discharge,Car,April,Tuesday
+323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,Black or African American,English,Methodist,Single,Student - Full Time,Commercial,Discharge,Car,June,Friday
+324,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Retired,Medicare,Discharge,ambulance,September,Sunday
+325,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Divorced,Full Time,Commercial,Admit,Car,April,Wednesday
+326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sle,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Discharge,Car,July,Sunday
+327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sle,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Discharge,Car,October,Friday
+328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Discharge,Car,March,Thursday
+329,,,,,,,,,,,,other upper respiratory disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Commercial,Discharge,Car,November,Friday
+330,,,,,,,,,,,,other upper respiratory disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Commercial,Discharge,Car,June,Friday
+331,,,,,,adult resp failure,,,,,,,,,,,,,,,pulmonary heart disease,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Legally Separated,Not Employed,Medicaid,Admit,ambulance,March,Monday
+332,,,,,,,,,,otnutritional disorder,,,,,,phlebitis,,,,,pulmonary heart disease,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Retired,Medicare,Admit,ambulance,July,Thursday
+333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Student - Full Time,Commercial,Discharge,Car,December,Saturday
+334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,May,Tuesday
+335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Patient Refused,White or Caucasian,English,Other,Single,Part Time,Commercial,Discharge,ambulance,May,Tuesday
+336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Walk-in,April,Thursday
+337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Walk-in,September,Saturday
+338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Walk-in,March,Friday
+339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Car,June,Thursday
+340,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Walk-in,September,Wednesday
+341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Walk-in,February,Thursday
+342,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Admit,Walk-in,March,Thursday
+343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Walk-in,April,Sunday
+344,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Walk-in,April,Monday
+345,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Medicaid,Discharge,Walk-in,February,Tuesday
+346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Married,Full Time,Commercial,Admit,ambulance,January,Wednesday
+347,,,,,,,,,,otnutritional disorder,other pregnacy complications,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Commercial,Discharge,Car,March,Saturday
+348,,,,,,,,,,otnutritional disorder,other pregnacy complications,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Commercial,Discharge,Car,April,Thursday
+349,,,,,,,,,,otnutritional disorder,other pregnacy complications,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Commercial,Discharge,Car,January,Sunday
+350,,,,,,,,,,otnutritional disorder,other pregnacy complications,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Commercial,Discharge,Car,May,Sunday
+351,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Divorced,Not Employed,Medicaid,Discharge,Other,April,Friday
+352,,,,,acute mi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,ambulance,November,Monday
+353,,,,,acute mi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Discharge,ambulance,March,Tuesday
+354,,,,,acute mi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,ambulance,May,Tuesday
+355,,,,,acute mi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Discharge,Other,May,Friday
+356,,,,,acute mi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,ambulance,June,Thursday
+357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,August,Wednesday
+358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Part Time,Medicaid,Discharge,Car,June,Sunday
+359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Protestant,Single,Student - Full Time,Commercial,Discharge,ambulance,January,Wednesday
+360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Protestant,Single,Student - Full Time,Commercial,Discharge,Walk-in,October,Saturday
+361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Discharge,Car,June,Wednesday
+362,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Discharge,Car,June,Thursday
+363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Disabled,Medicaid,Admit,ambulance,December,Tuesday
+364,,,,,,,,,,,,other upper respiratory disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,Black or African American,English,Other,Single,Not Employed,Medicaid,Discharge,ambulance,December,Saturday
+365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,Car,March,Saturday
+366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,ambulance,April,Tuesday
+367,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,Walk-in,May,Monday
+368,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,ambulance,September,Wednesday
+369,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,sedative/hypnotics,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,Other,December,Thursday
+370,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,Walk-in,December,Tuesday
+371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,ambulance,January,Wednesday
+372,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,Car,February,Saturday
+373,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,ambulance,April,Saturday
+374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,ambulance,April,Tuesday
+375,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,ambulance,June,Thursday
+376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Admit,ambulance,June,Tuesday
+377,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Commercial,Discharge,Other,October,Tuesday
+378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,syncope,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Retired,Medicaid,Admit,Other,January,Monday
+379,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Other,Married,Not Employed,Medicaid,Discharge,Car,May,Saturday
+380,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Other,Married,Not Employed,Medicaid,Discharge,ambulance,May,Tuesday
+381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Other,Married,Not Employed,Medicaid,Discharge,ambulance,September,Tuesday
+382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,English,Other,Married,Not Employed,Medicaid,Discharge,ambulance,December,Sunday
+383,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Medicaid,Discharge,Car,August,Wednesday
+384,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,pre-natal vitamins,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Medicaid,Discharge,Walk-in,August,Sunday
+385,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Medicaid,Discharge,Car,January,Monday
+386,,,,,,,,,,,,,,,,,,,,,,,,,,,skin infectionn,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Full Time,Medicaid,Discharge,ambulance,December,Saturday
+387,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Hispanic or Latino,Other,Other,Unknown,Married,Full Time,Commercial,Discharge,Car,September,Sunday
+388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,Other,English,None,Married,Full Time,Commercial,Admit,Walk-in,June,Wednesday
+389,,,,,,,,allergy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,December,Sunday
+390,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Other,Married,Full Time,Commercial,Admit,Walk-in,August,Monday
+391,,,,,,,,allergy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,February,Thursday
+392,,,,,,,,,,,,other upper respiratory disorder,,,,,pelvic inflammatory disease,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,October,Friday
+393,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,herbal medicine,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Disabled,Medicare,Admit,ambulance,March,Wednesday
+394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Disabled,Medicare,Admit,ambulance,July,Tuesday
+395,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Disabled,Medicare,Discharge,ambulance,July,Tuesday
+396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Disabled,Medicare,Discharge,ambulance,January,Sunday
+397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Disabled,Commercial,Admit,ambulance,June,Monday
+398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Disabled,Commercial,Discharge,ambulance,July,Friday
+399,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Disabled,Commercial,Admit,ambulance,May,Monday
+400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,substance related disorders,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Not Employed,Commercial,Discharge,Car,September,Sunday
+401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,substance related disorders,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Not Employed,Commercial,Discharge,Car,May,Thursday
+402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Not Employed,Medicaid,Discharge,Car,August,Tuesday
+403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Baptist,Married,Not Employed,Medicaid,Discharge,ambulance,July,Saturday
+404,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,Walk-in,January,Sunday
+405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,March,Saturday
+406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,March,Wednesday
+407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Car,March,Friday
+408,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Married,Self Employed,Commercial,Discharge,Car,August,Sunday
+409,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Married,Self Employed,Commercial,Discharge,Car,October,Thursday
+410,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Married,Self Employed,Commercial,Admit,Car,December,Monday
+411,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Married,Self Employed,Commercial,Discharge,Car,June,Tuesday
+412,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,Car,September,Wednesday
+413,,,,acute cardiovascular disease,,,,allergy,,,,,,,,,,,,,,retinal disorder,,,,,,skin melanoma,,,,,,,,,ulcerative colitis,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Admit,Walk-in,February,Saturday
+414,abdominal hernia,,,,,,,allergy,,,,,,,,,,,,,,,rheumatoid arthritis,,,,,,,,,,,,,,,,kidney stones,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Car,May,Sunday
+415,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,retinal disorder,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Full Time,Commercial,Admit,ambulance,January,Sunday
+416,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,retinal disorder,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Full Time,Other,Discharge,NA,January,Saturday
+417,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,retinal disorder,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Full Time,Other,Discharge,NA,April,Friday
+418,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,retinal disorder,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Full Time,Commercial,Discharge,NA,January,Sunday
+419,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,retinal disorder,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Full Time,Commercial,Discharge,NA,November,Monday
+420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Discharge,ambulance,September,Friday
+421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Full Time,Medicaid,Discharge,Car,July,Tuesday
+422,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Hispanic or Latino,Other,English,Catholic,Single,Student - Full Time,Medicaid,Discharge,ambulance,May,Wednesday
+423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Full Time,Commercial,Discharge,Car,May,Saturday
+424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Non-Hispanic,White or Caucasian,English,None,Divorced,Full Time,Commercial,Discharge,ambulance,November,Friday
+425,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kidney stones,,,,Male,Non-Hispanic,White or Caucasian,English,None,Divorced,Full Time,Commercial,Discharge,Car,November,Sunday
+426,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Admit,ambulance,January,Monday
+427,abdominal hernia,,,,acute mi,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,ambulance,April,Friday
+428,abdominal hernia,,,,acute mi,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,Walk-in,May,Thursday
+429,abdominal hernia,,,,acute mi,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,Walk-in,June,Saturday
+430,abdominal hernia,,,,acute mi,,,,,,,,,pancreas disorder,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Admit,Walk-in,July,Wednesday
+431,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Car,October,Saturday
+432,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Commercial,Discharge,Walk-in,September,Sunday
+433,,,,,,,,,,,,other upper respiratory disorder,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,ulcerative colitis,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Not Employed,Medicaid,Admit,ambulance,February,Saturday
+434,,,,,,,,,,,,other upper respiratory disorder,ovarian cyst,,,,,,,,,,,,,,,,,,,,,,,,ulcerative colitis,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Not Employed,Medicaid,Discharge,Car,November,Monday
+435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Self Employed,Commercial,Admit,ambulance,June,Sunday
+436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Admit,ambulance,October,Friday
+437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Admit,Walk-in,January,Thursday
+438,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Divorced,Full Time,Commercial,Discharge,NA,April,Tuesday
+439,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Retired,Medicare,Admit,ambulance,March,Friday
+440,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,ambulance,September,Thursday
+441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Discharge,ambulance,October,Thursday
+442,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Discharge,ambulance,December,Monday
+443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,ambulance,January,Friday
+444,,,,,,,,,,otnutritional disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,ambulance,January,Saturday
+445,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Admit,Car,January,Friday
+446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Discharge,Car,February,Monday
+447,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Admit,Car,February,Tuesday
+448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Discharge,Car,November,Sunday
+449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Discharge,Walk-in,November,Sunday
+450,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Admit,Car,March,Saturday
+451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Admit,Car,August,Thursday
+452,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Commercial,Admit,ambulance,November,Friday
+453,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Retired,Medicare,Discharge,Walk-in,December,Saturday
+454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Retired,Medicare,Discharge,Car,April,Tuesday
+455,,abdominal pain,,,,,,,,otnutritional disorder,,,ovarian cyst,,,,pelvic inflammatory disease,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Full Time,Commercial,Discharge,Car,March,Friday
+456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Single,Retired,Commercial,Discharge,Walk-in,January,Sunday
+457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Single,Full Time,Commercial,Discharge,Walk-in,July,Saturday
+458,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Not Employed,Commercial,Discharge,ambulance,May,Sunday
+459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Not Employed,Commercial,Discharge,ambulance,July,Sunday
+460,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,February,Monday
+461,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,Car,March,Saturday
+462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Admit,Car,March,Monday
+463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Admit,Car,April,Tuesday
+464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,Car,May,Wednesday
+465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,Car,May,Monday
+466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,Car,June,Sunday
+467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,ambulance,August,Thursday
+468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,ambulance,September,Monday
+469,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Admit,ambulance,September,Monday
+470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,ambulance,September,Monday
+471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,ambulance,November,Saturday
+472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,ambulance,November,Thursday
+473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,ambulance,December,Thursday
+474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,ambulance,February,Tuesday
+475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,Walk-in,February,Tuesday
+476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,ambulance,March,Tuesday
+477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Discharge,Walk-in,May,Tuesday
+478,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Admit,ambulance,August,Monday
+479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tia,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Other,Divorced,Not Employed,Medicaid,Admit,Walk-in,May,Thursday
+480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,superficial injury,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Widowed,Retired,Commercial,Discharge,ambulance,October,Wednesday
+481,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,superficial injury,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Widowed,Retired,Commercial,Admit,ambulance,January,Monday
+482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,superficial injury,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Widowed,Retired,Commercial,Admit,ambulance,February,Monday
+483,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,superficial injury,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Widowed,Retired,Commercial,Admit,Car,February,Thursday
+484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,superficial injury,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Widowed,Retired,Commercial,Admit,ambulance,March,Tuesday
+485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,superficial injury,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Christian,Widowed,Retired,Commercial,Discharge,ambulance,July,Sunday
+486,,,,,,,,,,,other pregnacy complications,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,Black or African American,English,Baptist,Single,Full Time,Medicaid,Discharge,Car,December,Wednesday
+487,,,,,,,,,,,,other upper respiratory disorder,,,,,,,,,,,,schizophrenia and other psychotic disorder,,,,,,,,,,,thyroid disorder,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Single,Unknown,Medicaid,Admit,ambulance,September,Sunday
+488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thyroid disorder,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,None,Married,Full Time,Commercial,Admit,ambulance,April,Friday
+489,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Car,January,Sunday
+490,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Admit,ambulance,September,Monday
+491,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Married,Full Time,Commercial,Discharge,Walk-in,November,Friday
+492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Discharge,Car,September,Sunday
+493,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Admit,ambulance,October,Sunday
+494,,,,acute cardiovascular disease,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Widowed,Retired,Medicare,Discharge,Car,May,Saturday
+495,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Not Employed,Commercial,Discharge,ambulance,April,Friday
+496,,abdominal pain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,substance related disorders,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Single,Not Employed,Medicaid,Admit,Walk-in,July,Sunday
+497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Full Time,Commercial,Discharge,Car,July,Saturday
+498,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,None,Married,Full Time,Commercial,Admit,Car,July,Monday
+499,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female,Non-Hispanic,White or Caucasian,English,Catholic,Divorced,Full Time,Commercial,Discharge,Car,February,Saturday
+500,,,,,,,,,,,,,,pancreas disorder,,phlebitis,,,,,,,,,,,,,,,,,,,,,,,,,,,Male,Non-Hispanic,White or Caucasian,English,Catholic,Married,Self Employed,Commercial,Discharge,Car,October,Tuesday
